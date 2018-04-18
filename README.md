@@ -1,2 +1,2 @@
 # Chat-Socket.io
-Chat with socket.io
+Private chat with NodeJS and socket.io
