@@ -1,0 +1,27 @@
+{
+  "name": "chat-socket.io",
+  "version": "1.0.0",
+  "description": "Chat with NodeJS and Socket.io",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estebanMe/Chat-Socket.io.git"
+  },
+  "author": "Esteban Mercado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/estebanMe/Chat-Socket.io/issues"
+  },
+  "homepage": "https://github.com/estebanMe/Chat-Socket.io#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
